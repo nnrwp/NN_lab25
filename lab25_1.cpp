@@ -64,3 +64,7 @@ void List::append(int d){
 }
 
 //Write List::remove() here
+void List::remove(int d){
+	size--;
+	
+}
